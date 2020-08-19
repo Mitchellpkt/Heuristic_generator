@@ -4,7 +4,8 @@
 
 Notes:
 
-D := data, includes both
+D := data. Can ingest many heterogenous data types to comb through for informtion leaks, for example:
+
 - metadata 
   - fee
   - weight
