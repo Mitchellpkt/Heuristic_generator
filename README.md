@@ -15,7 +15,8 @@ D := data, includes both
 - engineered features
   - tx_extra (e.g. length and Levenshtein string distances)
   - decoy selection (e.g. offset-corrected median age)
-  - Transaction tree distances (times or hops)
-  - Change chains
+  - transaction tree periodicity
+  - transaction tree distances (times or hops)
+  - change chains
 - on-chain data (e.g. signer scalars)
 - network-layer data (e.g. originating IP address)
